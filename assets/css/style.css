@@ -103,9 +103,21 @@ section{
 .form-input{
  border: 1px solid #024e76;
  display: block;
- padding: 2px 15px;
+ padding: 7px 15px;
  font-size: 16px;
  color: #024e76;
  width: 100%;
  margin-bottom: 15px;   
+}
+
+.hero-form label{
+    margin: 0 5px;
+}
+
+.hero-form button{
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
 }
