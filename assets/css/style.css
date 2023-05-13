@@ -71,6 +71,7 @@ footer a{
 section{
     padding: 60px;
 }
+
 .hero{
     background-image:url("../images/hero-bg.jpeg");
     height:600px;
@@ -90,5 +91,21 @@ section{
     position: absolute;
     bottom: 120px;
     right: 140px;
-
+    
+}
+.hero-form p{
+    margin: 5px 0 15px 0;
+}
+.hero-form h3{
+    font-size: 24px;
+    margin: 0;
+}
+.form-input{
+ border: 1px solid #024e76;
+ display: block;
+ padding: 2px 15px;
+ font-size: 16px;
+ color: #024e76;
+ width: 100%;
+ margin-bottom: 15px;   
 }
